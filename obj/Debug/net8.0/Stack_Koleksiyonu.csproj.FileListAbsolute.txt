@@ -1,0 +1,14 @@
+/Users/emrahelis/Stack_Koleksiyonu/bin/Debug/net8.0/Stack_Koleksiyonu
+/Users/emrahelis/Stack_Koleksiyonu/bin/Debug/net8.0/Stack_Koleksiyonu.deps.json
+/Users/emrahelis/Stack_Koleksiyonu/bin/Debug/net8.0/Stack_Koleksiyonu.runtimeconfig.json
+/Users/emrahelis/Stack_Koleksiyonu/bin/Debug/net8.0/Stack_Koleksiyonu.dll
+/Users/emrahelis/Stack_Koleksiyonu/bin/Debug/net8.0/Stack_Koleksiyonu.pdb
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/Stack_Koleksiyonu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/Stack_Koleksiyonu.AssemblyInfoInputs.cache
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/Stack_Koleksiyonu.AssemblyInfo.cs
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/Stack_Koleksiyonu.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/Stack_Koleksiyonu.dll
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/refint/Stack_Koleksiyonu.dll
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/Stack_Koleksiyonu.pdb
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/Stack_Koleksiyonu.genruntimeconfig.cache
+/Users/emrahelis/Stack_Koleksiyonu/obj/Debug/net8.0/ref/Stack_Koleksiyonu.dll
