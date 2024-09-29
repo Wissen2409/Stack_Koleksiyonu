@@ -54,3 +54,4 @@ for (int i=0; i<donguDegisken;i++){
 
 
 
+
